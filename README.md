@@ -1,7 +1,7 @@
 [![MasterHead](https://www.davidmvenegas.com/static/media/react-banner.1c0c53f9413881974c0c.jpg)](https://github.com/itMehti)
 <h1 align="center">Hi 👋, I'm Mehdi Bahrami</h1>
 <h3 align="center">a Front End Developer from IRAN</h3>
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif" />
+<img align="center" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itmehti" alt="itmehti" /></a> </p>
 
